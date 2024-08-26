@@ -1,2 +1,7 @@
 1.r15
 2.pulsar
+git config --global credential.helper wincred
+now im giving yamaha bikies
+
+fz
+some bikes
